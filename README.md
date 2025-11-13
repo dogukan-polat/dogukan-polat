@@ -51,6 +51,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogukan-polat&theme=radical&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dogukan-polat&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
