@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Java Backend Developer</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/do%C4%9Fukan-polat-2bbb931b6/]">
+  <a href="https://www.linkedin.com/in/dogukan-polat-2bbb931b6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
